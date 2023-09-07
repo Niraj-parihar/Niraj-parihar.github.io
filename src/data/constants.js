@@ -216,6 +216,27 @@ export const projects = [
   },
   {
     id: 1,
+    title: "CAR-MANAGER-API | SAAS BASED PROJECT",
+    date: "Aug 2023 - PRESENT",
+    description:
+      "Developing a user-oriented SaaS product for efficient car management and dealership operations.",
+    image:
+      "https://firebasestorage.googleapis.com/v0/b/uploadingfile-3a59b.appspot.com/o/car%20manager%20api.png?alt=media&token=d5acfbf7-760c-48d4-89bb-e1c62f80c700",
+    tags: [
+      "SaaS",
+      "JavaScript",
+      "NodeJs",
+      "Expressjs",
+      "MongoDB",
+      "RestApi",
+      "Mongoose",
+    ],
+    category: "server app",
+    github: "https://github.com/Niraj-parihar/Car-Manager-Api",
+    webapp: "https://github.com/Niraj-parihar/Car-Manager-Api",
+  },
+  {
+    id: 2,
     title: "SYNCHROTALK",
     date: "May 2023 - June 2023",
     description:
@@ -228,7 +249,7 @@ export const projects = [
     webapp: "https://synchrotalk.onrender.com/",
   },
   {
-    id: 2,
+    id: 3,
     title: "IMAGE SEARCH APPLICATION",
     date: "Jan 2023 - Feb 2023",
     description:
@@ -241,7 +262,7 @@ export const projects = [
     webapp: "https://image-search-five.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "WINDOW PAINT APP - CANVASJS",
     date: "May 2023 - June 2023",
     description:
@@ -254,7 +275,7 @@ export const projects = [
     webapp: "https://windowpaint.netlify.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "ACTION TRACK APP",
     date: "June 2023 - July 2023",
     description:
@@ -274,7 +295,7 @@ export const projects = [
     webapp: "https://github.com/Niraj-parihar/Action-Track-App",
   },
   {
-    id: 5,
+    id: 6,
     title: "SeaSon Display App",
     date: "Jan 2023 - Feb 2023",
     description:
@@ -287,7 +308,7 @@ export const projects = [
     webapp: "https://displayseason.netlify.app/",
   },
   {
-    id: 6,
+    id: 7,
     title: "OPENAI IMAGE GENERATOR",
     date: "July 2023 - Present",
     description:
@@ -311,7 +332,7 @@ export const projects = [
     webapp: "https://github.com/Niraj-parihar/OpenAi_Image_generator-2.0",
   },
   {
-    id: 7,
+    id: 8,
     title: "YOUTUBE-VIDEOPLAYER",
     date: "Dec 2022 - Jan 2023",
     description:
