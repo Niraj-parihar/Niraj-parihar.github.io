@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import InstagramIcon from "@mui/icons-material/Instagram";
+import GitHubIcon from "@mui/icons-material/GitHub";
 import { Bio } from "../../data/constants";
 
 const FooterContainer = styled.div`
@@ -95,6 +96,9 @@ function Footer() {
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.insta} target="display">
             <InstagramIcon />
+          </SocialMediaIcon>
+          <SocialMediaIcon href={Bio.github} target="display">
+            <GitHubIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>&copy; 2023 Niraj Parihar. All rights reserved.</Copyright>
