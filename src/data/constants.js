@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   resume:
-    "https://drive.google.com/file/d/1-LMbslKVhPbp0LVExz7yBa9Kiv8nXAun/view?usp=sharing",
+    "https://drive.google.com/file/d/1i04C-T5Jf3A_Bfecrg2HxF9ur5B0SzOO/view?usp=sharing",
   github: "https://github.com/Niraj-parihar",
   insta: "https://www.instagram.com/_thegr8niraj/",
 };
